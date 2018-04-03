@@ -1,0 +1,12 @@
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.deps.json
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.json
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.runtimeconfig.dev.json
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.dll
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\bin\Debug\netcoreapp2.0\SistemaAC.pdb
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csprojResolveAssemblyReference.cache
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfoInputs.cache
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.AssemblyInfo.cs
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.dll
+C:\Users\DANIEL\source\repos\SistemaAC\SistemaAC\obj\Debug\netcoreapp2.0\SistemaAC.pdb
